@@ -2,9 +2,8 @@
 
 A Bitly-style URL shortener built with **Spring Boot 3**, **PostgreSQL**, **Redis**, **JWT authentication**, and a **Next.js 15** dashboard with analytics, QR codes, and dark mode.
 
-![Architecture](docs/screenshots/Interface.png)
+![Interface](docs/screenshots/Interface.png)
 
-> Screenshot placeholders: add `docs/screenshots/` images after running the app (landing, dashboard, analytics).
 
 ---
 
