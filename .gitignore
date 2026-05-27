@@ -1,0 +1,9 @@
+.env
+.env.local
+*.log
+.idea/
+.vscode/
+node_modules/
+target/
+.next/
+out/
